@@ -13,19 +13,11 @@
     </image>
     
     <item>
-      <title>Integrating Knowledge and Reasoning in Image Understanding</title>
-      <link>https://ayushjain1144.github.io/publication/integratingsurvey/</link>
+      <title>Seeing By Moving: Towards Self-Supervised Amodal Object Detection</title>
+      <link>https://ayushjain1144.github.io/publication/seeingbymoving/</link>
       <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ayushjain1144.github.io/publication/integratingsurvey/</guid>
-      <description>&lt;p&gt;Deep learning based data-driven approaches have been successfully applied in various image under-
-standing applications ranging from object recognition, semantic segmentation to visual question an-
-swering.  However, the lack of knowledge integration as well as higher-level reasoning capabilities
-with  the  methods  still  pose  a  hindrance. In  this work, we present a brief survey of a few represen-
-tative  reasoning  mechanisms,  knowledge  integration methods and their corresponding image under-
-standing applications developed by various groups of researchers, approaching the problem from a va-
-riety of angles.  Furthermore, we discuss upon key efforts on integrating external knowledge with neu-
-ral networks. Taking cues from these efforts, we conclude by discussing potential pathways to im-
-prove reasoning capabilities.&lt;/p&gt;
+      <guid>https://ayushjain1144.github.io/publication/seeingbymoving/</guid>
+      <description>&lt;p&gt;Humans learn to better understand the world by moving around their environment to get more informative viewpoints of the scene. Most methods for 2D visual recognition tasks such as object detection and segmentation treat images of the same scene as individual samples and do not exploit object permanence in multiple views. Generalization to novel scenes and views thus requires additional training with lots of human annotations. In this paper, we propose a self-supervised framework to improve an object detector in unseen scenarios by moving an agent around in a 3D environment and aggregating multi-view RGB-D information. We unproject confident 2D object detections from the pre-trained detector and perform unsupervised 3D segmentation on the point cloud. The segmented 3D objects are then re-projected to all other views to obtain pseudo-labels for fine-tuning. Experiments on both indoor and outdoor datasets show that (1) our framework performs high quality 3D segmentation from raw RGB-D data and a pre-trained 2D detector; (2) fine-tuning with self supervision improves the 2D detector significantly where an unseen RGB image is given as input at test time; (3) training a 3D detector with self supervision outperforms a comparable self-supervised method by a large margin.&lt;/p&gt;
 </description>
     </item>
     
