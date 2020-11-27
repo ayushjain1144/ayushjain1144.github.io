@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 18 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TaxiNLI: Taking a Ride up the NLU Hill</title>
+      <link>//localhost:1313/publication/taxinli/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publication/taxinli/</guid>
+      <description>Pre-trained Transformer-based neural architectures have consistently achieved state-of-the-art performance in the Natural Language Inference (NLI) task. Since NLI examples encompass a variety of linguistic, logical, and reasoning phenomena, it remains unclear as to which specific concepts are learnt by the trained systems and where they can achieve strong generalization. To investigate this question, we propose a taxonomic hierarchy of categories that are relevant for the NLI task. We introduce TAXINLI, a new dataset, that has 10k examples from the MNLI dataset (Williams et al.</description>
+    </item>
+    
+    <item>
+      <title>Solving NLI using Reasoning and Learning</title>
+      <link>//localhost:1313/project/nsnli/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/project/nsnli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncovering Relations for Marketing Knowledge Representation</title>
+      <link>//localhost:1313/publication/makrstarai/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publication/makrstarai/</guid>
+      <description>Online behaviors of consumers and marketers generate massive marketing data, which ever more sophisticated models attempt to turn into insights and aid decisions by marketers. Yet, in making decisions human managers bring to bear marketing knowledge which reside outside of data and models. Thus, it behooves creation of an automated marketing knowledge base that can interact with data and models. Currently, marketing knowledge is dispersed in large corpora, but no definitive knowledge base for marketing exists.</description>
+    </item>
+    
+    <item>
+      <title>Integrating Knowledge and Reasoning in Image Understanding</title>
+      <link>//localhost:1313/publication/integratingsurvey/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publication/integratingsurvey/</guid>
+      <description>Deep learning based data-driven approaches have been successfully applied in various image under- standing applications ranging from object recognition, semantic segmentation to visual question an- swering. However, the lack of knowledge integration as well as higher-level reasoning capabilities with the methods still pose a hindrance. In this work, we present a brief survey of a few represen- tative reasoning mechanisms, knowledge integration methods and their corresponding image under- standing applications developed by various groups of researchers, approaching the problem from a va- riety of angles.</description>
+    </item>
+    
+    <item>
+      <title>Spatial Knowledge Distillation to aid Visual Reasoning</title>
+      <link>//localhost:1313/publication/spatialkd/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publication/spatialkd/</guid>
+      <description>For tasks involving language and vision, the current state-of-the-art methods do not leverage any additional information that might be present to gather privileged knowledge. Instead, such an ability is expected to be learnt during the training phase. One such task is Visual Question Answering, where large diagnostic datasets have been proposed to test a system’s capability of reasoning and answering questions about images. In this work, we take a step towards integrating this additional privileged information in the form of spatial knowledge to aid in visual reasoning.</description>
+    </item>
+    
+    <item>
+      <title>Explicit Reasoning over End-to-End Neural Architectures</title>
+      <link>//localhost:1313/publication/pslvqa/</link>
+      <pubDate>Sat, 17 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publication/pslvqa/</guid>
+      <description>Many vision and language tasks require commonsense reasoning beyond data-driven image and natural language pro- cessing. Here we adopt Visual Question Answering (VQA) as an example task, where a system is expected to answer a question in natural language about an image. Current state-of-the-art systems attempted to solve the task using deep neural architectures and achieved promising performance. However, the resulting systems are generally opaque and they struggle in understanding questions for which extra knowledge is required.</description>
+    </item>
+    
+    <item>
+      <title>Spatial Knowledge Distillation to aid Visual Reasoning</title>
+      <link>//localhost:1313/project/spatialkd/</link>
+      <pubDate>Fri, 09 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/project/spatialkd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving Visual QA using Reasoning and Deep Learning</title>
+      <link>//localhost:1313/project/pslvqa/</link>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/project/pslvqa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining Knowledge and Reasoning through Probabilistic Soft Logic for Image Puzzle Solving</title>
+      <link>//localhost:1313/publication/riddles/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publication/riddles/</guid>
+      <description>In this work, we explore a genre of puzzles (“image riddles”) which involves a set of images and a question. Answering these puzzles require both capabilities involving visual detection (including object, activity recognition) and, knowledge-based or commonsense reasoning. We compile a dataset of over 3k riddles where each riddle consists of 4 images and a groundtruth answer. The annotations are validated using crowd-sourced evaluation. We also define an automatic evaluation metric to track future progress.</description>
+    </item>
+    
+    <item>
+      <title>Image Understanding using Vision and Reasoning through Scene Description Graph</title>
+      <link>//localhost:1313/publication/sdg_cviu/</link>
+      <pubDate>Mon, 18 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publication/sdg_cviu/</guid>
+      <description>Two of the fundamental tasks in image understanding using text are caption generation and visual question answering [4, 72]. This work presents an intermediate knowledge structure that can be used for both tasks to obtain increased interpretability. We call this knowledge structure Scene Description Graph (SDG), as it is a directed labeled graph, representing objects, actions, regions, as well as their attributes, along with inferred concepts and semantic (from KM-Ontology [12]), ontological (i.</description>
+    </item>
+    
+    <item>
+      <title>Solving Image Puzzles</title>
+      <link>//localhost:1313/project/riddle-project/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/project/riddle-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Images to Sentences</title>
+      <link>//localhost:1313/project/example-external-project/</link>
+      <pubDate>Sun, 27 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/project/example-external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepIU: An Architecture for Image Understanding</title>
+      <link>//localhost:1313/publication/deepiu/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publication/deepiu/</guid>
+      <description>Image Understanding is fundamental to systems that need to extract contents and infer concepts from images. In this paper, we develop an architecture for understanding images, through which a system can recognize the content and the underlying concepts of an image and, reason and answer questions about both using a visual module, a reasoning module, and a commonsense knowledge base. In this architecture, visual data combines with background knowledge and; iterates through visual and reasoning modules to answer questions about an image or to generate a textual description of an image.</description>
+    </item>
+    
+    <item>
+      <title>From Images to Sentences through Scene Description Graphs using Commonsense Reasoning and Knowledge</title>
+      <link>//localhost:1313/publication/sdg/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publication/sdg/</guid>
+      <description>In this paper we propose the construction of linguistic descriptions of images. This is achieved through the extraction of scene description graphs (SDGs) from visual scenes using an automatically constructed knowledge base. SDGs are constructed using both vision and reasoning. Specifically, commonsense reasoning1 is applied on (a) detections obtained from existing perception methods on given images, (b) a “commonsense” knowledge base constructed using natural language processing of image annotations and &amp;copy; lexical ontological knowledge from resources such as WordNet.</description>
+    </item>
+    
+    <item>
+      <title>Towards Addressing the Winograd Schema Challenge-Building and Using a Semantic Parser and a Knowledge Hunting Module.</title>
+      <link>//localhost:1313/publication/kparser/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publication/kparser/</guid>
+      <description>Concerned about the Turing test’s ability to correctly evaluate if a system exhibits human-like intelligence, the Winograd Schema Challenge (WSC) has been proposed as an alternative. A Winograd Schema consists of a sentence and a question. The answers to the questions are intuitive for humans but are designed to be difficult for machines, as they require various forms of commonsense knowledge about the sentence. In this paper we demonstrate our progress towards addressing the WSC.</description>
+    </item>
+    
+    <item>
+      <title>K-Parser: A Knowledge Parser</title>
+      <link>//localhost:1313/project/kparser/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/project/kparser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual common-sense for scene understanding using perception, semantic parsing and reasoning.</title>
+      <link>//localhost:1313/publication/common-sense/</link>
+      <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publication/common-sense/</guid>
+      <description>In this paper we explore the use of visual commonsense knowledge and other kinds of knowledge (such as domain knowledge, background knowledge, linguistic knowledge) for scene understanding. In particular, we combine visual processing with techniques from natural language understanding (especially semantic parsing), common-sense reasoning and knowledge representation and reasoning to improve visual perception to reason about finer aspects of activities</description>
+    </item>
+    
+  </channel>
+</rss>
