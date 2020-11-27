@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>soft-logic | Ayush Jain</title>
-    <link>http://localhost:1313/tags/soft-logic/</link>
-      <atom:link href="http://localhost:1313/tags/soft-logic/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ayushjain1144.github.io/tags/soft-logic/</link>
+      <atom:link href="https://ayushjain1144.github.io/tags/soft-logic/index.xml" rel="self" type="application/rss+xml" />
     <description>soft-logic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 09 Nov 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://ayushjain1144.github.io/img/icon-192.png</url>
       <title>soft-logic</title>
-      <link>http://localhost:1313/tags/soft-logic/</link>
+      <link>https://ayushjain1144.github.io/tags/soft-logic/</link>
     </image>
     
     <item>
       <title>Spatial Knowledge Distillation to aid Visual Reasoning</title>
-      <link>http://localhost:1313/project/spatialkd/</link>
+      <link>https://ayushjain1144.github.io/project/spatialkd/</link>
       <pubDate>Fri, 09 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/spatialkd/</guid>
+      <guid>https://ayushjain1144.github.io/project/spatialkd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solving Visual QA using Reasoning and Deep Learning</title>
-      <link>http://localhost:1313/project/pslvqa/</link>
+      <link>https://ayushjain1144.github.io/project/pslvqa/</link>
       <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pslvqa/</guid>
+      <guid>https://ayushjain1144.github.io/project/pslvqa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solving Image Puzzles</title>
-      <link>http://localhost:1313/project/riddle-project/</link>
+      <link>https://ayushjain1144.github.io/project/riddle-project/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/riddle-project/</guid>
+      <guid>https://ayushjain1144.github.io/project/riddle-project/</guid>
       <description></description>
     </item>
     

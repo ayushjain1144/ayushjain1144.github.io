@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cornelia Fermuller | Ayush Jain</title>
-    <link>http://localhost:1313/authors/cornelia-fermuller/</link>
-      <atom:link href="http://localhost:1313/authors/cornelia-fermuller/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ayushjain1144.github.io/authors/cornelia-fermuller/</link>
+      <atom:link href="https://ayushjain1144.github.io/authors/cornelia-fermuller/index.xml" rel="self" type="application/rss+xml" />
     <description>Cornelia Fermuller</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Dec 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://ayushjain1144.github.io/img/icon-192.png</url>
       <title>Cornelia Fermuller</title>
-      <link>http://localhost:1313/authors/cornelia-fermuller/</link>
+      <link>https://ayushjain1144.github.io/authors/cornelia-fermuller/</link>
     </image>
     
     <item>
       <title>Image Understanding using Vision and Reasoning through Scene Description Graph</title>
-      <link>http://localhost:1313/publication/sdg_cviu/</link>
+      <link>https://ayushjain1144.github.io/publication/sdg_cviu/</link>
       <pubDate>Mon, 18 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sdg_cviu/</guid>
+      <guid>https://ayushjain1144.github.io/publication/sdg_cviu/</guid>
       <description>&lt;p&gt;Two of the fundamental tasks in image understanding using text are caption generation and visual question answering
 [4, 72]. This work presents an intermediate knowledge structure that can be used for both tasks to obtain increased interpretability.
 We call this knowledge structure Scene Description Graph (SDG), as it is a directed labeled graph, representing objects, actions,
@@ -31,9 +31,9 @@ with reasonable accuracy.&lt;/p&gt;
     
     <item>
       <title>DeepIU: An Architecture for Image Understanding</title>
-      <link>http://localhost:1313/publication/deepiu/</link>
+      <link>https://ayushjain1144.github.io/publication/deepiu/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/deepiu/</guid>
+      <guid>https://ayushjain1144.github.io/publication/deepiu/</guid>
       <description>&lt;p&gt;Image Understanding is fundamental to systems that need to extract contents and infer concepts
 from images. In this paper, we develop an architecture for understanding images, through which a
 system can recognize the content and the underlying concepts of an image and, reason and answer
@@ -54,9 +54,9 @@ image with reasonable accuracy.&lt;/p&gt;
     
     <item>
       <title>From Images to Sentences through Scene Description Graphs using Commonsense Reasoning and Knowledge</title>
-      <link>http://localhost:1313/publication/sdg/</link>
+      <link>https://ayushjain1144.github.io/publication/sdg/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sdg/</guid>
+      <guid>https://ayushjain1144.github.io/publication/sdg/</guid>
       <description>&lt;p&gt;In this paper we propose the construction of linguistic
 descriptions of images. This is achieved through the extraction
 of scene description graphs (SDGs) from visual scenes
@@ -81,9 +81,9 @@ state-of-the art approaches.&lt;/p&gt;
     
     <item>
       <title>Visual common-sense for scene understanding using perception, semantic parsing and reasoning.</title>
-      <link>http://localhost:1313/publication/common-sense/</link>
+      <link>https://ayushjain1144.github.io/publication/common-sense/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/common-sense/</guid>
+      <guid>https://ayushjain1144.github.io/publication/common-sense/</guid>
       <description>&lt;p&gt;In this paper we explore the use of visual commonsense
 knowledge and other kinds of knowledge (such as
 domain knowledge, background knowledge, linguistic

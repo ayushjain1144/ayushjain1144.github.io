@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arpit Sharma | Ayush Jain</title>
-    <link>http://localhost:1313/authors/arpit-sharma/</link>
-      <atom:link href="http://localhost:1313/authors/arpit-sharma/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ayushjain1144.github.io/authors/arpit-sharma/</link>
+      <atom:link href="https://ayushjain1144.github.io/authors/arpit-sharma/index.xml" rel="self" type="application/rss+xml" />
     <description>Arpit Sharma</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Jul 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://ayushjain1144.github.io/img/icon-192.png</url>
       <title>Arpit Sharma</title>
-      <link>http://localhost:1313/authors/arpit-sharma/</link>
+      <link>https://ayushjain1144.github.io/authors/arpit-sharma/</link>
     </image>
     
     <item>
       <title>Towards Addressing the Winograd Schema Challenge-Building and Using a Semantic Parser and a Knowledge Hunting Module.</title>
-      <link>http://localhost:1313/publication/kparser/</link>
+      <link>https://ayushjain1144.github.io/publication/kparser/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/kparser/</guid>
+      <guid>https://ayushjain1144.github.io/publication/kparser/</guid>
       <description>&lt;p&gt;Concerned about the Turing test’s ability to correctly
 evaluate if a system exhibits human-like intelligence,
 the Winograd Schema Challenge (WSC)

@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Ayush Jain</title>
-    <link>http://localhost:1313/project/</link>
-      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ayushjain1144.github.io/project/</link>
+      <atom:link href="https://ayushjain1144.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://ayushjain1144.github.io/img/icon-192.png</url>
       <title>Projects</title>
-      <link>http://localhost:1313/project/</link>
+      <link>https://ayushjain1144.github.io/project/</link>
     </image>
     
     <item>
       <title>Solving NLI using Reasoning and Learning</title>
-      <link>http://localhost:1313/project/nsnli/</link>
+      <link>https://ayushjain1144.github.io/project/nsnli/</link>
       <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/nsnli/</guid>
+      <guid>https://ayushjain1144.github.io/project/nsnli/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatial Knowledge Distillation to aid Visual Reasoning</title>
-      <link>http://localhost:1313/project/spatialkd/</link>
+      <link>https://ayushjain1144.github.io/project/spatialkd/</link>
       <pubDate>Fri, 09 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/spatialkd/</guid>
+      <guid>https://ayushjain1144.github.io/project/spatialkd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solving Visual QA using Reasoning and Deep Learning</title>
-      <link>http://localhost:1313/project/pslvqa/</link>
+      <link>https://ayushjain1144.github.io/project/pslvqa/</link>
       <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pslvqa/</guid>
+      <guid>https://ayushjain1144.github.io/project/pslvqa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solving Image Puzzles</title>
-      <link>http://localhost:1313/project/riddle-project/</link>
+      <link>https://ayushjain1144.github.io/project/riddle-project/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/riddle-project/</guid>
+      <guid>https://ayushjain1144.github.io/project/riddle-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From Images to Sentences</title>
-      <link>http://localhost:1313/project/example-external-project/</link>
+      <link>https://ayushjain1144.github.io/project/example-external-project/</link>
       <pubDate>Sun, 27 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/example-external-project/</guid>
+      <guid>https://ayushjain1144.github.io/project/example-external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>K-Parser: A Knowledge Parser</title>
-      <link>http://localhost:1313/project/kparser/</link>
+      <link>https://ayushjain1144.github.io/project/kparser/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/kparser/</guid>
+      <guid>https://ayushjain1144.github.io/project/kparser/</guid>
       <description></description>
     </item>
     

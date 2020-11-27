@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Logic | Ayush Jain</title>
-    <link>http://localhost:1313/tags/logic/</link>
-      <atom:link href="http://localhost:1313/tags/logic/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ayushjain1144.github.io/tags/logic/</link>
+      <atom:link href="https://ayushjain1144.github.io/tags/logic/index.xml" rel="self" type="application/rss+xml" />
     <description>Logic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://ayushjain1144.github.io/img/icon-192.png</url>
       <title>Logic</title>
-      <link>http://localhost:1313/tags/logic/</link>
+      <link>https://ayushjain1144.github.io/tags/logic/</link>
     </image>
     
     <item>
       <title>Solving NLI using Reasoning and Learning</title>
-      <link>http://localhost:1313/project/nsnli/</link>
+      <link>https://ayushjain1144.github.io/project/nsnli/</link>
       <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/nsnli/</guid>
+      <guid>https://ayushjain1144.github.io/project/nsnli/</guid>
       <description></description>
     </item>
     
