@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Common Sense on </title>
-    <link>//localhost:1313/tags/common-sense/</link>
-    <description>Recent content in Common Sense on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 27 Nov 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="//localhost:1313/tags/common-sense/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>common-sense | Ayush Jain</title>
+    <link>http://localhost:1313/tags/common-sense/</link>
+      <atom:link href="http://localhost:1313/tags/common-sense/index.xml" rel="self" type="application/rss+xml" />
+    <description>common-sense</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 27 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/img/icon-192.png</url>
+      <title>common-sense</title>
+      <link>http://localhost:1313/tags/common-sense/</link>
+    </image>
     
     <item>
       <title>From Images to Sentences</title>
-      <link>//localhost:1313/project/example-external-project/</link>
+      <link>http://localhost:1313/project/example-external-project/</link>
       <pubDate>Sun, 27 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/project/example-external-project/</guid>
+      <guid>http://localhost:1313/project/example-external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>K-Parser: A Knowledge Parser</title>
-      <link>//localhost:1313/project/kparser/</link>
+      <link>http://localhost:1313/project/kparser/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/project/kparser/</guid>
+      <guid>http://localhost:1313/project/kparser/</guid>
       <description></description>
     </item>
     
