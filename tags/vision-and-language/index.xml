@@ -5,7 +5,7 @@
     <link>https://ayushjain1144.github.io/tags/vision-and-language/</link>
       <atom:link href="https://ayushjain1144.github.io/tags/vision-and-language/index.xml" rel="self" type="application/rss+xml" />
     <description>Vision and Language</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 09 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ayushjain1144.github.io/img/icon-192.png</url>
       <title>Vision and Language</title>
@@ -13,34 +13,10 @@
     </image>
     
     <item>
-      <title>Spatial Knowledge Distillation to aid Visual Reasoning</title>
-      <link>https://ayushjain1144.github.io/project/spatialkd/</link>
-      <pubDate>Fri, 09 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://ayushjain1144.github.io/project/spatialkd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Solving Visual QA using Reasoning and Deep Learning</title>
-      <link>https://ayushjain1144.github.io/project/pslvqa/</link>
-      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://ayushjain1144.github.io/project/pslvqa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Solving Image Puzzles</title>
-      <link>https://ayushjain1144.github.io/project/riddle-project/</link>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://ayushjain1144.github.io/project/riddle-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>From Images to Sentences</title>
-      <link>https://ayushjain1144.github.io/project/example-external-project/</link>
-      <pubDate>Sun, 27 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://ayushjain1144.github.io/project/example-external-project/</guid>
+      <title>Towards Learning Spatial Common Sense Through Weak Supervision : A Comparitive Study</title>
+      <link>https://ayushjain1144.github.io/project/grnn/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://ayushjain1144.github.io/project/grnn/</guid>
       <description></description>
     </item>
     

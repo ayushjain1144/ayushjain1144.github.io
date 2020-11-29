@@ -5,7 +5,7 @@
     <link>https://ayushjain1144.github.io/project/</link>
       <atom:link href="https://ayushjain1144.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ayushjain1144.github.io/img/icon-192.png</url>
       <title>Projects</title>
@@ -13,50 +13,50 @@
     </image>
     
     <item>
-      <title>Solving NLI using Reasoning and Learning</title>
-      <link>https://ayushjain1144.github.io/project/nsnli/</link>
-      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://ayushjain1144.github.io/project/nsnli/</guid>
+      <title>Towards Learning Spatial Common Sense Through Weak Supervision : A Comparitive Study</title>
+      <link>https://ayushjain1144.github.io/project/grnn/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://ayushjain1144.github.io/project/grnn/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Spatial Knowledge Distillation to aid Visual Reasoning</title>
-      <link>https://ayushjain1144.github.io/project/spatialkd/</link>
-      <pubDate>Fri, 09 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://ayushjain1144.github.io/project/spatialkd/</guid>
+      <title>ABB Robot Simulation</title>
+      <link>https://ayushjain1144.github.io/project/abb/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://ayushjain1144.github.io/project/abb/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Solving Visual QA using Reasoning and Deep Learning</title>
-      <link>https://ayushjain1144.github.io/project/pslvqa/</link>
-      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://ayushjain1144.github.io/project/pslvqa/</guid>
+      <title>Named Entity Recognition from scratch</title>
+      <link>https://ayushjain1144.github.io/project/ner/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://ayushjain1144.github.io/project/ner/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Solving Image Puzzles</title>
-      <link>https://ayushjain1144.github.io/project/riddle-project/</link>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://ayushjain1144.github.io/project/riddle-project/</guid>
+      <title>Compiler Construction</title>
+      <link>https://ayushjain1144.github.io/project/compiler/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://ayushjain1144.github.io/project/compiler/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>From Images to Sentences</title>
-      <link>https://ayushjain1144.github.io/project/example-external-project/</link>
-      <pubDate>Sun, 27 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://ayushjain1144.github.io/project/example-external-project/</guid>
+      <title>AI Minesweeper</title>
+      <link>https://ayushjain1144.github.io/project/minesweeper/</link>
+      <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://ayushjain1144.github.io/project/minesweeper/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>K-Parser: A Knowledge Parser</title>
-      <link>https://ayushjain1144.github.io/project/kparser/</link>
-      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://ayushjain1144.github.io/project/kparser/</guid>
+      <title>Earthquake Prediction and Management</title>
+      <link>https://ayushjain1144.github.io/project/earthquake/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://ayushjain1144.github.io/project/earthquake/</guid>
       <description></description>
     </item>
     

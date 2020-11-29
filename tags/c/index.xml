@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C | Ayush Jain</title>
+    <link>https://ayushjain1144.github.io/tags/c/</link>
+      <atom:link href="https://ayushjain1144.github.io/tags/c/index.xml" rel="self" type="application/rss+xml" />
+    <description>C</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ayushjain1144.github.io/img/icon-192.png</url>
+      <title>C</title>
+      <link>https://ayushjain1144.github.io/tags/c/</link>
+    </image>
+    
+    <item>
+      <title>Compiler Construction</title>
+      <link>https://ayushjain1144.github.io/project/compiler/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://ayushjain1144.github.io/project/compiler/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
