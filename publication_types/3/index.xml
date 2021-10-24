@@ -13,11 +13,41 @@
     </image>
     
     <item>
+      <title>Language Modulated Detection and Detection Modulated Language Grounding in 2D and 3D Scenes</title>
+      <link>https://ayushjain1144.github.io/publication/beauty-detr/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://ayushjain1144.github.io/publication/beauty-detr/</guid>
+      <description>&lt;p&gt;To  localize an object referent, humans attend to different locations in the scene and visual cues depending on the utterance.
+Existing language and vision systems often model such task-driven attention using object proposal bottlenecks: a pre-trained detector proposes objects in the scene, and the model is trained to selectively process those proposals and then predict the answer without attending to the original image. Object detectors are typically trained on a fixed vocabulary of objects and attributes that is often too restrictive for open-domain language grounding, where the language utterance may refer to visual entities in various levels of abstraction, such as a cat, the leg of a cat, or the stain on the front leg of the chair. This paper proposes a model that reconciles language grounding and object detection with two main contributions: i) Architectures that exhibit iterative attention across the language stream, the pixel stream, and object detection proposals. In this way, the model learns to condition on easy-to-detect objects (e.g., &lt;code&gt;table”) and language hints (e.g. &lt;/code&gt;on the table”) to detect harder objects (e.g., ``mugs”) mentioned in the utterance. ii) Optimization objectives that treat object detection as language grounding of a large predefined set of object categories. In this way, cheap object annotations
+are used to supervise our model, which results in performance improvements over models that are not co-trained across both referential grounding and object detection. Our model has a much lighter computational footprint, achieves faster convergence and has shown on par or higher performance compared to both detection-bottlenecked and non-detection bottlenecked language-vision models
+on both 2D  and 3D language grounding  benchmarks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Move to See Better: Towards Self-Supervised Amodal Object Detection</title>
       <link>https://ayushjain1144.github.io/publication/seeingbymoving/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://ayushjain1144.github.io/publication/seeingbymoving/</guid>
       <description>&lt;p&gt;Humans learn to better understand the world by moving around their environment to get more informative viewpoints of the scene. Most methods for 2D visual recognition tasks such as object detection and segmentation treat images of the same scene as individual samples and do not exploit object permanence in multiple views. Generalization to novel scenes and views thus requires additional training with lots of human annotations. In this paper, we propose a self-supervised framework to improve an object detector in unseen scenarios by moving an agent around in a 3D environment and aggregating multi-view RGB-D information. We unproject confident 2D object detections from the pre-trained detector and perform unsupervised 3D segmentation on the point cloud. The segmented 3D objects are then re-projected to all other views to obtain pseudo-labels for fine-tuning. Experiments on both indoor and outdoor datasets show that (1) our framework performs high quality 3D segmentation from raw RGB-D data and a pre-trained 2D detector; (2) fine-tuning with self supervision improves the 2D detector significantly where an unseen RGB image is given as input at test time; (3) training a 3D detector with self supervision outperforms a comparable self-supervised method by a large margin.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI-enabled Object Detection in Unmanned Aerial Vehicles for Edge Computing Applications</title>
+      <link>https://ayushjain1144.github.io/publication/aerial_object_detection/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://ayushjain1144.github.io/publication/aerial_object_detection/</guid>
+      <description>&lt;p&gt;Unmanned Aerial Vehicles (UAVs) are emerging as a powerful tool for various industrial and smart city applications. The UAVs coupled with various sensors can perform many cognitive tasks such as object detection, surveillance, traffic management, and urban planning. These tasks often rely on computationally expensive deep learning approaches. Execution of the compute intensive algorithms are usually not feasible with the embedded processors on a power-constrained UAV. Therefore, the Edge-AI has emerged as a popular alternative in such scenarios by offloading the heavy-lifting tasks to the Edge devices. This work proposes a deep learning approach for detection of objects in aerial scenes captured by UAVs. In our setup, the power-constrained drone is used only for data collection, while the computationally intensive tasks are offloaded to a GPU edge server. Our work first categorize the current methods for aerial object detection using deep learning techniques and discusses how the task is different from general object detection scenarios. We delineate the specific challenges involved and experimentally demonstrate the key design decisions which significantly affect the accuracy and robustness of model. We further propose an optimized architecture which utilizes these optimal design choices along with the recent ResNeSt backbone in order to achieve superior performance in aerial object detection. Lastly, we propose several research directions to inspire further advancement in aerial object detection.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NukeBERT: A Pre-trained language model for Low Resource Nuclear Domain</title>
+      <link>https://ayushjain1144.github.io/publication/nukebert/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://ayushjain1144.github.io/publication/nukebert/</guid>
+      <description>&lt;p&gt;Significant advances have been made in recent years on Natural Language Processing with machines surpassing human performance in many tasks, including but not limited to Question Answering. The majority of deep learning methods for Question Answering targets domains with large datasets and highly matured literature. The area of Nuclear and Atomic energy has largely remained unexplored in exploiting available unannotated data for driving industry viable applications. To tackle this issue of lack of quality dataset, this paper intriduces two datasets: NText, a eight million words dataset extracted and preprocessed from nuclear research papers and thesis; and NQuAD, a Nuclear Question Answering Dataset, which contains 700+ nuclear Question Answer pairs developed and verified by expert nuclear researchers. This paper further propose a data efficient technique based on BERT, which improves performance significantly as compared to original BERT baseline on above datasets. Both the datasets, code and pretrained weights will be made publically available, which would hopefully attract more research attraction towards the nuclear domain.&lt;/p&gt;
 </description>
     </item>
     
