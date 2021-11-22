@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christopher Atketson | Ayush Jain</title>
+    <link>https://ayushjain1144.github.io/authors/christopher-atketson/</link>
+      <atom:link href="https://ayushjain1144.github.io/authors/christopher-atketson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christopher Atketson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ayushjain1144.github.io/img/icon-192.png</url>
+      <title>Christopher Atketson</title>
+      <link>https://ayushjain1144.github.io/authors/christopher-atketson/</link>
+    </image>
+    
+    <item>
+      <title>Mapping Instructions to Goals for Robot Manipulation via  Graph-Structured Energy-Based Concept Models</title>
+      <link>https://ayushjain1144.github.io/publication/ns_transporter/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://ayushjain1144.github.io/publication/ns_transporter/</guid>
+      <description>&lt;p&gt;We propose a framework for robot instruction that maps language instructions to goal scene configurations of the relevant object and part entities, and their locations in the scene. The imagined goals modulate the pick and placement locations of a robotic gripper within a transporter network\cite{transporter} that re-arranges the objects in the scene. Our parser maps language commands to compositions of language-conditioned energy-based models\cite{mordatch2018concept} that generate the scene in a modular and compositional way.  We show the proposed model can follow instructions zero shot, without ever having seen an instruction (e.g. &amp;ldquo;make a circle&amp;rdquo;) paired with a set of corresponding actions, by sharing information regarding how objects are picked and placed across multiple different tasks. We show extensive results in simulation and the real world where our agent infers object re-arrangements from language with very little data shared across multiple instruction tasks and outperforms by a margin in out-of-domain generalization existing state-of-the-art language-conditioned transporter works that map language to actions directly. We consistent show  dramatic improvements  in long horizon manipulation tasks, such as making lines and circles, over existing state of the art image to action mapping methods, as well as in generalization to unseen visual conditions.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
