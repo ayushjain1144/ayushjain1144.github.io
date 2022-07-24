@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-<head>
+<head><script src="/livereload.js?port=1313&amp;mindelay=10&amp;v=2" data-no-instant defer></script>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Existing language grounding models often use object proposal bottlenecks: a pre-trained detector proposes objects in the scene and the model learns to select the answer from these box proposals, without attending to the original image or 3D point cloud. Object detectors are typically trained on a fixed vocabulary of objects and attributes that is often too restrictive for open-domain language grounding, where an utterance may refer to visual entities at various levels of abstraction, such as a chair, the leg of a chair, or the tip of the front leg of a chair.">
+  <meta name="description" content="Most models tasked to ground referential utterances in 2D and 3D scenes learn to select the referred object from a pool of object proposals provided by a pre-trained detector. This is limiting because an utterance may refer to visual entities at various levels of granularity, such as the chair, the leg of the chair, or the tip of the front leg of the chair, which may be missed by the detector.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://ayushjain1144.github.io/publication/beauty-detr/">
+  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/publication/beauty-detr/">
 
   
 
@@ -111,7 +111,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://ayushjain1144.github.io/publication/beauty-detr/">
+  <link rel="canonical" href="http://localhost:1313/publication/beauty-detr/">
 
   
   
@@ -126,10 +126,10 @@
   <meta property="twitter:creator" content="@ayushjain1144">
   
   <meta property="og:site_name" content="Ayush Jain">
-  <meta property="og:url" content="https://ayushjain1144.github.io/publication/beauty-detr/">
-  <meta property="og:title" content="Looking Outside the Box to Ground Language in 3D Scenes | Ayush Jain">
-  <meta property="og:description" content="Existing language grounding models often use object proposal bottlenecks: a pre-trained detector proposes objects in the scene and the model learns to select the answer from these box proposals, without attending to the original image or 3D point cloud. Object detectors are typically trained on a fixed vocabulary of objects and attributes that is often too restrictive for open-domain language grounding, where an utterance may refer to visual entities at various levels of abstraction, such as a chair, the leg of a chair, or the tip of the front leg of a chair."><meta property="og:image" content="https://ayushjain1144.github.io/publication/beauty-detr/featured.png">
-  <meta property="twitter:image" content="https://ayushjain1144.github.io/publication/beauty-detr/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="http://localhost:1313/publication/beauty-detr/">
+  <meta property="og:title" content="Bottom Up Top Down Detection Transformers for Language Grounding in Images and Point Clouds | Ayush Jain">
+  <meta property="og:description" content="Most models tasked to ground referential utterances in 2D and 3D scenes learn to select the referred object from a pool of object proposals provided by a pre-trained detector. This is limiting because an utterance may refer to visual entities at various levels of granularity, such as the chair, the leg of the chair, or the tip of the front leg of the chair, which may be missed by the detector."><meta property="og:image" content="http://localhost:1313/publication/beauty-detr/featured.png">
+  <meta property="twitter:image" content="http://localhost:1313/publication/beauty-detr/featured.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2020-11-09T00:00:00&#43;00:00">
@@ -158,12 +158,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://ayushjain1144.github.io/publication/beauty-detr/"
+    "@id": "http://localhost:1313/publication/beauty-detr/"
   },
-  "headline": "Looking Outside the Box to Ground Language in 3D Scenes",
+  "headline": "Bottom Up Top Down Detection Transformers for Language Grounding in Images and Point Clouds",
   
   "image": [
-    "https://ayushjain1144.github.io/publication/beauty-detr/featured.png"
+    "http://localhost:1313/publication/beauty-detr/featured.png"
   ],
   
   "datePublished": "2020-11-09T00:00:00Z",
@@ -179,10 +179,10 @@
     "name": "Ayush Jain",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://ayushjain1144.github.io/img/icon-512.png"
+      "url": "http://localhost:1313/img/icon-512.png"
     }
   },
-  "description": "Existing language grounding models often use object proposal bottlenecks: a pre-trained detector proposes objects in the scene and the model learns to select the answer from these box proposals, without attending to the original image or 3D point cloud. Object detectors are typically trained on a fixed vocabulary of objects and attributes that is often too restrictive for open-domain language grounding, where an utterance may refer to visual entities at various levels of abstraction, such as a chair, the leg of a chair, or the tip of the front leg of a chair."
+  "description": "Most models tasked to ground referential utterances in 2D and 3D scenes learn to select the referred object from a pool of object proposals provided by a pre-trained detector. This is limiting because an utterance may refer to visual entities at various levels of granularity, such as the chair, the leg of the chair, or the tip of the front leg of the chair, which may be missed by the detector."
 }
 </script>
 
@@ -200,7 +200,7 @@
 
 
 
-  <title>Looking Outside the Box to Ground Language in 3D Scenes | Ayush Jain</title>
+  <title>Bottom Up Top Down Detection Transformers for Language Grounding in Images and Point Clouds | Ayush Jain</title>
 
 </head>
 
@@ -404,35 +404,6 @@
         
         
 
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#affiliations"><span>Affiliations</span></a>
-        </li>
-
-        
-        
-
       
       </ul>
       <ul class="navbar-nav ml-auto">
@@ -491,7 +462,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>Looking Outside the Box to Ground Language in 3D Scenes</h1>
+  <h1>Bottom Up Top Down Detection Transformers for Language Grounding in Images and Point Clouds</h1>
 
   
 
@@ -511,7 +482,7 @@
 
 
   
-  <span><strong>Ayush Jain</strong>*</span>, <span>Nikolaos Gkanatsios*</span>, <span>Ishita Mediratta</span>, <span>Katerina Fragkiadaki</span>
+  <span><strong>Ayush Jain</strong>*</span>, <span>Nikolaos Gkanatsios*</span>, <span>Ishita Mediratta</span>, <span>Katerina Fragkiadaki (* Equal Contribution)</span>
 
   </div>
   
@@ -551,7 +522,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://ayushjain1144.github.io/publication/beauty-detr/&amp;text=Looking%20Outside%20the%20Box%20to%20Ground%20Language%20in%203D%20Scenes" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=http://localhost:1313/publication/beauty-detr/&amp;text=Bottom%20Up%20Top%20Down%20Detection%20Transformers%20for%20Language%20Grounding%20in%20Images%20and%20Point%20Clouds" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -564,7 +535,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://ayushjain1144.github.io/publication/beauty-detr/&amp;t=Looking%20Outside%20the%20Box%20to%20Ground%20Language%20in%203D%20Scenes" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=http://localhost:1313/publication/beauty-detr/&amp;t=Bottom%20Up%20Top%20Down%20Detection%20Transformers%20for%20Language%20Grounding%20in%20Images%20and%20Point%20Clouds" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -577,7 +548,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Looking%20Outside%20the%20Box%20to%20Ground%20Language%20in%203D%20Scenes&amp;body=https://ayushjain1144.github.io/publication/beauty-detr/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Bottom%20Up%20Top%20Down%20Detection%20Transformers%20for%20Language%20Grounding%20in%20Images%20and%20Point%20Clouds&amp;body=http://localhost:1313/publication/beauty-detr/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -590,7 +561,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://ayushjain1144.github.io/publication/beauty-detr/&amp;title=Looking%20Outside%20the%20Box%20to%20Ground%20Language%20in%203D%20Scenes" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=http://localhost:1313/publication/beauty-detr/&amp;title=Bottom%20Up%20Top%20Down%20Detection%20Transformers%20for%20Language%20Grounding%20in%20Images%20and%20Point%20Clouds" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -603,7 +574,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Looking%20Outside%20the%20Box%20to%20Ground%20Language%20in%203D%20Scenes%20https://ayushjain1144.github.io/publication/beauty-detr/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Bottom%20Up%20Top%20Down%20Detection%20Transformers%20for%20Language%20Grounding%20in%20Images%20and%20Point%20Clouds%20http://localhost:1313/publication/beauty-detr/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -616,7 +587,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://ayushjain1144.github.io/publication/beauty-detr/&amp;title=Looking%20Outside%20the%20Box%20to%20Ground%20Language%20in%203D%20Scenes" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=http://localhost:1313/publication/beauty-detr/&amp;title=Bottom%20Up%20Top%20Down%20Detection%20Transformers%20for%20Language%20Grounding%20in%20Images%20and%20Point%20Clouds" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -671,8 +642,15 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/nickgkan/beauty_detr" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/nickgkan/butd_detr" target="_blank" rel="noopener">
   Code
+</a>
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://butd-detr.github.io/" target="_blank" rel="noopener">
+  Project
 </a>
 
 
@@ -685,18 +663,15 @@
 
 
 
-
-
-
 </div>
 
 
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 325px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 219px;">
   <div style="position: relative">
-    <img src="/publication/beauty-detr/featured_hu90861c513043f7480780307fd267c62f_2331966_720x0_resize_lanczos_2.png" alt="" class="featured-image">
+    <img src="/publication/beauty-detr/featured_hu2964eb1739afd447d4aad071c5ca033d_394496_720x0_resize_lanczos_2.png" alt="" class="featured-image">
     
   </div>
 </div>
@@ -734,7 +709,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">In Submission</div>
+          <div class="col-12 col-md-9">ECCV 2021</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -744,8 +719,7 @@
 
     <div class="space-below"></div>
 
-    <div class="article-style"><p>Existing language grounding models often use object proposal bottlenecks: a pre-trained detector proposes objects in the scene and the model learns to select the answer from these box proposals, without attending to the original image or 3D point cloud. Object detectors are typically trained on a fixed vocabulary of objects and attributes that is often too restrictive for open-domain language grounding, where an utterance may refer to visual entities at various levels of abstraction, such as a chair, the leg of a chair, or the tip of the front leg of a chair.<br>
-We propose a model for grounding language in 3D scenes that bypasses box proposal bottlenecks with three main innovations: i) Iterative attention across the language stream, the point cloud feature stream and 3D box proposals. ii) Transformer decoders with non-parametric entity queries that decode 3D boxes for object and part referentials. iii) Joint supervision from 3D object annotations and language grounding annotations, by treating object detection as grounding of referential utterances comprised of a list of candidate category labels. These innovations result in significant quantitative gains (up to +9% absolute improvement on the SR3D benchmark) over previous approaches on popular 3D language grounding benchmarks. We ablate each of our innovations to show its contribution to the performance of the model. When applied on language grounding on 2D images with minor changes, it performs  on par with the state-of-the-art while converges  in  half of the GPU time.</p>
+    <div class="article-style"><p>Most models tasked to ground referential utterances in 2D and 3D scenes learn to select the referred object from a pool of object proposals provided by a pre-trained detector. This is limiting because an utterance may refer to visual entities at various levels of granularity, such as the chair, the leg of the chair, or the tip of the front leg of the chair, which may be missed by the detector. We propose a language grounding model that attends on the referential utterance and on the object proposal pool computed from a pre-trained detector to decode referenced objects with a detection head, without selecting them from the pool. In this way, it is helped by powerful pre-trained object detectors without being restricted by their misses. We call our model Bottom Up Top Down DEtection TRansformers (BUTD-DETR) because it uses both language guidance (top down) and objectness guidance (bottom-up) to ground referential utterances in images and point clouds. Moreover, BUTD-DETR casts object detection as referential grounding and uses object labels as language prompts to be grounded in the visual scene, augmenting supervision for the referential grounding task in this way. The proposed model sets a new state-of-the-art across popular 3D language grounding benchmarks with significant performance gains over previous 3D approaches (12.6% on SR3D, 11.6% on NR3D and 6.3% on ScanRefer). When applied in 2D images, it performs on par with the previous state of the art. We ablate the design choices of our model and quantify their contribution to performance. Our code and checkpoints can be found at the project website: <a href="https://butd-detr.github.io/">https://butd-detr.github.io/</a></p>
 </div>
 
     
@@ -816,6 +790,8 @@ We propose a model for grounding language in 3D scenes that bypasses box proposa
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
 
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js" integrity="sha256-0w92bcB21IY5+rGI84MGj52jNfHNbXVeQLrZ0CGdjNY=" crossorigin="anonymous" title="mermaid"></script>
       
 
       

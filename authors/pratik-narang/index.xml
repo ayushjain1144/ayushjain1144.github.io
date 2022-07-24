@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pratik Narang | Ayush Jain</title>
-    <link>https://ayushjain1144.github.io/authors/pratik-narang/</link>
-      <atom:link href="https://ayushjain1144.github.io/authors/pratik-narang/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/pratik-narang/</link>
+      <atom:link href="http://localhost:1313/authors/pratik-narang/index.xml" rel="self" type="application/rss+xml" />
     <description>Pratik Narang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ayushjain1144.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Pratik Narang</title>
-      <link>https://ayushjain1144.github.io/authors/pratik-narang/</link>
+      <link>http://localhost:1313/authors/pratik-narang/</link>
     </image>
     
     <item>
       <title>AI-enabled Object Detection in Unmanned Aerial Vehicles for Edge Computing Applications</title>
-      <link>https://ayushjain1144.github.io/publication/aerial_object_detection/</link>
+      <link>http://localhost:1313/publication/aerial_object_detection/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://ayushjain1144.github.io/publication/aerial_object_detection/</guid>
+      <guid>http://localhost:1313/publication/aerial_object_detection/</guid>
       <description>&lt;p&gt;Unmanned Aerial Vehicles (UAVs) are emerging as a powerful tool for various industrial and smart city applications. The UAVs coupled with various sensors can perform many cognitive tasks such as object detection, surveillance, traffic management, and urban planning. These tasks often rely on computationally expensive deep learning approaches. Execution of the compute intensive algorithms are usually not feasible with the embedded processors on a power-constrained UAV. Therefore, the Edge-AI has emerged as a popular alternative in such scenarios by offloading the heavy-lifting tasks to the Edge devices. This work proposes a deep learning approach for detection of objects in aerial scenes captured by UAVs. In our setup, the power-constrained drone is used only for data collection, while the computationally intensive tasks are offloaded to a GPU edge server. Our work first categorize the current methods for aerial object detection using deep learning techniques and discusses how the task is different from general object detection scenarios. We delineate the specific challenges involved and experimentally demonstrate the key design decisions which significantly affect the accuracy and robustness of model. We further propose an optimized architecture which utilizes these optimal design choices along with the recent ResNeSt backbone in order to achieve superior performance in aerial object detection. Lastly, we propose several research directions to inspire further advancement in aerial object detection.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>VisDrone-DET2020: The Vision Meets Drone Object Detection in Image Challenge Results</title>
-      <link>https://ayushjain1144.github.io/publication/visdron/</link>
+      <link>http://localhost:1313/publication/visdron/</link>
       <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://ayushjain1144.github.io/publication/visdron/</guid>
+      <guid>http://localhost:1313/publication/visdron/</guid>
       <description>&lt;p&gt;The Vision Meets Drone Object Detection in Image Challenge (VisDrone-DET 2020) is the third annual object detector benchmarking activity. Compared with the previous VisDrone-DET 2018 and
 VisDrone-DET 2019 challenges, many submitted object detectors exceed
 the recent state-of-the-art detectors. Based on the selected 29 robust detection methods, we discuss the experimental results comprehensively,

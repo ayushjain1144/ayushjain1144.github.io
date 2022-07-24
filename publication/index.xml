@@ -2,58 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Ayush Jain</title>
-    <link>https://ayushjain1144.github.io/publication/</link>
-      <atom:link href="https://ayushjain1144.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ayushjain1144.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Publications</title>
-      <link>https://ayushjain1144.github.io/publication/</link>
+      <link>http://localhost:1313/publication/</link>
     </image>
     
     <item>
-      <title>Looking Outside the Box to Ground Language in 3D Scenes</title>
-      <link>https://ayushjain1144.github.io/publication/beauty-detr/</link>
+      <title>Bottom Up Top Down Detection Transformers for Language Grounding in Images and Point Clouds</title>
+      <link>http://localhost:1313/publication/beauty-detr/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://ayushjain1144.github.io/publication/beauty-detr/</guid>
-      <description>&lt;p&gt;Existing language grounding models often use object proposal bottlenecks: a pre-trained detector proposes objects in the scene and the model learns to select the answer from these box proposals, without attending to the original image or 3D point cloud. Object detectors are typically trained on a fixed vocabulary of objects and attributes that is often too restrictive for open-domain language grounding, where an utterance may refer to visual entities at various levels of abstraction, such as a chair, the leg of a chair, or the tip of the front leg of a chair.&lt;br&gt;
-We propose a model for grounding language in 3D scenes that bypasses box proposal bottlenecks with three main innovations: i) Iterative attention across the language stream, the point cloud feature stream and 3D box proposals. ii) Transformer decoders with non-parametric entity queries that decode 3D boxes for object and part referentials. iii) Joint supervision from 3D object annotations and language grounding annotations, by treating object detection as grounding of referential utterances comprised of a list of candidate category labels. These innovations result in significant quantitative gains (up to +9% absolute improvement on the SR3D benchmark) over previous approaches on popular 3D language grounding benchmarks. We ablate each of our innovations to show its contribution to the performance of the model. When applied on language grounding on 2D images with minor changes, it performs  on par with the state-of-the-art while converges  in  half of the GPU time.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mapping Instructions to Goals for Robot Manipulation via  Graph-Structured Energy-Based Concept Models</title>
-      <link>https://ayushjain1144.github.io/publication/ns_transporter/</link>
-      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://ayushjain1144.github.io/publication/ns_transporter/</guid>
-      <description>&lt;p&gt;We propose a framework for robot instruction that maps language instructions to goal scene configurations of the relevant object and part entities, and their locations in the scene. The imagined goals modulate the pick and placement locations of a robotic gripper within a transporter network\cite{transporter} that re-arranges the objects in the scene. Our parser maps language commands to compositions of language-conditioned energy-based models\cite{mordatch2018concept} that generate the scene in a modular and compositional way.  We show the proposed model can follow instructions zero shot, without ever having seen an instruction (e.g. &amp;ldquo;make a circle&amp;rdquo;) paired with a set of corresponding actions, by sharing information regarding how objects are picked and placed across multiple different tasks. We show extensive results in simulation and the real world where our agent infers object re-arrangements from language with very little data shared across multiple instruction tasks and outperforms by a margin in out-of-domain generalization existing state-of-the-art language-conditioned transporter works that map language to actions directly. We consistent show  dramatic improvements  in long horizon manipulation tasks, such as making lines and circles, over existing state of the art image to action mapping methods, as well as in generalization to unseen visual conditions.&lt;/p&gt;
+      <guid>http://localhost:1313/publication/beauty-detr/</guid>
+      <description>&lt;p&gt;Most models tasked to ground referential utterances in 2D and 3D scenes learn to select the referred object from a pool of object proposals provided by a pre-trained detector. This is limiting because an utterance may refer to visual entities at various levels of granularity, such as the chair, the leg of the chair, or the tip of the front leg of the chair, which may be missed by the detector. We propose a language grounding model that attends on the referential utterance and on the object proposal pool computed from a pre-trained detector to decode referenced objects with a detection head, without selecting them from the pool. In this way, it is helped by powerful pre-trained object detectors without being restricted by their misses. We call our model Bottom Up Top Down DEtection TRansformers (BUTD-DETR) because it uses both language guidance (top down) and objectness guidance (bottom-up) to ground referential utterances in images and point clouds. Moreover, BUTD-DETR casts object detection as referential grounding and uses object labels as language prompts to be grounded in the visual scene, augmenting supervision for the referential grounding task in this way. The proposed model sets a new state-of-the-art across popular 3D language grounding benchmarks with significant performance gains over previous 3D approaches (12.6% on SR3D, 11.6% on NR3D and 6.3% on ScanRefer). When applied in 2D images, it performs on par with the previous state of the art. We ablate the design choices of our model and quantify their contribution to performance. Our code and checkpoints can be found at the project website: &lt;a href=&#34;https://butd-detr.github.io/&#34;&gt;https://butd-detr.github.io/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Move to See Better: Towards Self-Improving Embodied Object Detection</title>
-      <link>https://ayushjain1144.github.io/publication/seeingbymoving/</link>
+      <link>http://localhost:1313/publication/seeingbymoving/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://ayushjain1144.github.io/publication/seeingbymoving/</guid>
+      <guid>http://localhost:1313/publication/seeingbymoving/</guid>
       <description>&lt;p&gt;Humans learn to better understand the world by moving around their environment to get more informative viewpoints of the scene. Most methods for 2D visual recognition tasks such as object detection and segmentation treat images of the same scene as individual samples and do not exploit object permanence in multiple views. Generalization to novel scenes and views thus requires additional training with lots of human annotations. In this paper, we propose a self-supervised framework to improve an object detector in unseen scenarios by moving an agent around in a 3D environment and aggregating multi-view RGB-D information. We unproject confident 2D object detections from the pre-trained detector and perform unsupervised 3D segmentation on the point cloud. The segmented 3D objects are then re-projected to all other views to obtain pseudo-labels for fine-tuning. Experiments on both indoor and outdoor datasets show that (1) our framework performs high quality 3D segmentation from raw RGB-D data and a pre-trained 2D detector; (2) fine-tuning with self supervision improves the 2D detector significantly where an unseen RGB image is given as input at test time; (3) training a 3D detector with self supervision outperforms a comparable self-supervised method by a large margin.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AI-enabled Object Detection in Unmanned Aerial Vehicles for Edge Computing Applications</title>
-      <link>https://ayushjain1144.github.io/publication/aerial_object_detection/</link>
+      <link>http://localhost:1313/publication/aerial_object_detection/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://ayushjain1144.github.io/publication/aerial_object_detection/</guid>
+      <guid>http://localhost:1313/publication/aerial_object_detection/</guid>
       <description>&lt;p&gt;Unmanned Aerial Vehicles (UAVs) are emerging as a powerful tool for various industrial and smart city applications. The UAVs coupled with various sensors can perform many cognitive tasks such as object detection, surveillance, traffic management, and urban planning. These tasks often rely on computationally expensive deep learning approaches. Execution of the compute intensive algorithms are usually not feasible with the embedded processors on a power-constrained UAV. Therefore, the Edge-AI has emerged as a popular alternative in such scenarios by offloading the heavy-lifting tasks to the Edge devices. This work proposes a deep learning approach for detection of objects in aerial scenes captured by UAVs. In our setup, the power-constrained drone is used only for data collection, while the computationally intensive tasks are offloaded to a GPU edge server. Our work first categorize the current methods for aerial object detection using deep learning techniques and discusses how the task is different from general object detection scenarios. We delineate the specific challenges involved and experimentally demonstrate the key design decisions which significantly affect the accuracy and robustness of model. We further propose an optimized architecture which utilizes these optimal design choices along with the recent ResNeSt backbone in order to achieve superior performance in aerial object detection. Lastly, we propose several research directions to inspire further advancement in aerial object detection.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>VisDrone-DET2020: The Vision Meets Drone Object Detection in Image Challenge Results</title>
-      <link>https://ayushjain1144.github.io/publication/visdron/</link>
+      <link>http://localhost:1313/publication/visdron/</link>
       <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://ayushjain1144.github.io/publication/visdron/</guid>
+      <guid>http://localhost:1313/publication/visdron/</guid>
       <description>&lt;p&gt;The Vision Meets Drone Object Detection in Image Challenge (VisDrone-DET 2020) is the third annual object detector benchmarking activity. Compared with the previous VisDrone-DET 2018 and
 VisDrone-DET 2019 challenges, many submitted object detectors exceed
 the recent state-of-the-art detectors. Based on the selected 29 robust detection methods, we discuss the experimental results comprehensively,
@@ -64,9 +54,9 @@ publicly available at the website &lt;a href=&#34;http://aiskyeye.com/leaderboar
     
     <item>
       <title>NukeBERT: A Pre-trained language model for Low Resource Nuclear Domain</title>
-      <link>https://ayushjain1144.github.io/publication/nukebert/</link>
+      <link>http://localhost:1313/publication/nukebert/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ayushjain1144.github.io/publication/nukebert/</guid>
+      <guid>http://localhost:1313/publication/nukebert/</guid>
       <description>&lt;p&gt;Significant advances have been made in recent years on Natural Language Processing with machines surpassing human performance in many tasks, including but not limited to Question Answering. The majority of deep learning methods for Question Answering targets domains with large datasets and highly matured literature. The area of Nuclear and Atomic energy has largely remained unexplored in exploiting available unannotated data for driving industry viable applications. To tackle this issue of lack of quality dataset, this paper intriduces two datasets: NText, a eight million words dataset extracted and preprocessed from nuclear research papers and thesis; and NQuAD, a Nuclear Question Answering Dataset, which contains 700+ nuclear Question Answer pairs developed and verified by expert nuclear researchers. This paper further propose a data efficient technique based on BERT, which improves performance significantly as compared to original BERT baseline on above datasets. Both the datasets, code and pretrained weights will be made publically available, which would hopefully attract more research attraction towards the nuclear domain.&lt;/p&gt;
 </description>
     </item>

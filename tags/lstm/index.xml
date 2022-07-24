@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LSTM | Ayush Jain</title>
-    <link>https://ayushjain1144.github.io/tags/lstm/</link>
-      <atom:link href="https://ayushjain1144.github.io/tags/lstm/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/lstm/</link>
+      <atom:link href="http://localhost:1313/tags/lstm/index.xml" rel="self" type="application/rss+xml" />
     <description>LSTM</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Aug 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ayushjain1144.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>LSTM</title>
-      <link>https://ayushjain1144.github.io/tags/lstm/</link>
+      <link>http://localhost:1313/tags/lstm/</link>
     </image>
     
     <item>
       <title>Earthquake Prediction and Management</title>
-      <link>https://ayushjain1144.github.io/project/earthquake/</link>
+      <link>http://localhost:1313/project/earthquake/</link>
       <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://ayushjain1144.github.io/project/earthquake/</guid>
+      <guid>http://localhost:1313/project/earthquake/</guid>
       <description></description>
     </item>
     

@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Ayush Jain</title>
-    <link>https://ayushjain1144.github.io/project/</link>
-      <atom:link href="https://ayushjain1144.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/project/</link>
+      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ayushjain1144.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Projects</title>
-      <link>https://ayushjain1144.github.io/project/</link>
+      <link>http://localhost:1313/project/</link>
     </image>
     
     <item>
       <title>Towards Learning Spatial Common Sense Through Weak Supervision : A Comparitive Study</title>
-      <link>https://ayushjain1144.github.io/project/grnn/</link>
+      <link>http://localhost:1313/project/grnn/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ayushjain1144.github.io/project/grnn/</guid>
+      <guid>http://localhost:1313/project/grnn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ABB Robot Simulation</title>
-      <link>https://ayushjain1144.github.io/project/abb/</link>
+      <link>http://localhost:1313/project/abb/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ayushjain1144.github.io/project/abb/</guid>
+      <guid>http://localhost:1313/project/abb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Named Entity Recognition from scratch</title>
-      <link>https://ayushjain1144.github.io/project/ner/</link>
+      <link>http://localhost:1313/project/ner/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://ayushjain1144.github.io/project/ner/</guid>
+      <guid>http://localhost:1313/project/ner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Compiler Construction</title>
-      <link>https://ayushjain1144.github.io/project/compiler/</link>
+      <link>http://localhost:1313/project/compiler/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://ayushjain1144.github.io/project/compiler/</guid>
+      <guid>http://localhost:1313/project/compiler/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AI Minesweeper</title>
-      <link>https://ayushjain1144.github.io/project/minesweeper/</link>
+      <link>http://localhost:1313/project/minesweeper/</link>
       <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://ayushjain1144.github.io/project/minesweeper/</guid>
+      <guid>http://localhost:1313/project/minesweeper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Earthquake Prediction and Management</title>
-      <link>https://ayushjain1144.github.io/project/earthquake/</link>
+      <link>http://localhost:1313/project/earthquake/</link>
       <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://ayushjain1144.github.io/project/earthquake/</guid>
+      <guid>http://localhost:1313/project/earthquake/</guid>
       <description></description>
     </item>
     

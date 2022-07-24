@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adam Harley | Ayush Jain</title>
-    <link>https://ayushjain1144.github.io/authors/adam-harley/</link>
-      <atom:link href="https://ayushjain1144.github.io/authors/adam-harley/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/adam-harley/</link>
+      <atom:link href="http://localhost:1313/authors/adam-harley/index.xml" rel="self" type="application/rss+xml" />
     <description>Adam Harley</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ayushjain1144.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Adam Harley</title>
-      <link>https://ayushjain1144.github.io/authors/adam-harley/</link>
+      <link>http://localhost:1313/authors/adam-harley/</link>
     </image>
     
     <item>
       <title>Move to See Better: Towards Self-Improving Embodied Object Detection</title>
-      <link>https://ayushjain1144.github.io/publication/seeingbymoving/</link>
+      <link>http://localhost:1313/publication/seeingbymoving/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://ayushjain1144.github.io/publication/seeingbymoving/</guid>
+      <guid>http://localhost:1313/publication/seeingbymoving/</guid>
       <description>&lt;p&gt;Humans learn to better understand the world by moving around their environment to get more informative viewpoints of the scene. Most methods for 2D visual recognition tasks such as object detection and segmentation treat images of the same scene as individual samples and do not exploit object permanence in multiple views. Generalization to novel scenes and views thus requires additional training with lots of human annotations. In this paper, we propose a self-supervised framework to improve an object detector in unseen scenarios by moving an agent around in a 3D environment and aggregating multi-view RGB-D information. We unproject confident 2D object detections from the pre-trained detector and perform unsupervised 3D segmentation on the point cloud. The segmented 3D objects are then re-projected to all other views to obtain pseudo-labels for fine-tuning. Experiments on both indoor and outdoor datasets show that (1) our framework performs high quality 3D segmentation from raw RGB-D data and a pre-trained 2D detector; (2) fine-tuning with self supervision improves the 2D detector significantly where an unseen RGB image is given as input at test time; (3) training a 3D detector with self supervision outperforms a comparable self-supervised method by a large margin.&lt;/p&gt;
 </description>
     </item>

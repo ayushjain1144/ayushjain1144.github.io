@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>common-sense | Ayush Jain</title>
-    <link>https://ayushjain1144.github.io/tags/common-sense/</link>
-      <atom:link href="https://ayushjain1144.github.io/tags/common-sense/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/common-sense/</link>
+      <atom:link href="http://localhost:1313/tags/common-sense/index.xml" rel="self" type="application/rss+xml" />
     <description>common-sense</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ayushjain1144.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>common-sense</title>
-      <link>https://ayushjain1144.github.io/tags/common-sense/</link>
+      <link>http://localhost:1313/tags/common-sense/</link>
     </image>
     
     <item>
       <title>Towards Learning Spatial Common Sense Through Weak Supervision : A Comparitive Study</title>
-      <link>https://ayushjain1144.github.io/project/grnn/</link>
+      <link>http://localhost:1313/project/grnn/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ayushjain1144.github.io/project/grnn/</guid>
+      <guid>http://localhost:1313/project/grnn/</guid>
       <description></description>
     </item>
     

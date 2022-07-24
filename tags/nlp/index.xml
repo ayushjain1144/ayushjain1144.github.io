@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NLP | Ayush Jain</title>
-    <link>https://ayushjain1144.github.io/tags/nlp/</link>
-      <atom:link href="https://ayushjain1144.github.io/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/nlp/</link>
+      <atom:link href="http://localhost:1313/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     <description>NLP</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ayushjain1144.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>NLP</title>
-      <link>https://ayushjain1144.github.io/tags/nlp/</link>
+      <link>http://localhost:1313/tags/nlp/</link>
     </image>
     
     <item>
       <title>Named Entity Recognition from scratch</title>
-      <link>https://ayushjain1144.github.io/project/ner/</link>
+      <link>http://localhost:1313/project/ner/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://ayushjain1144.github.io/project/ner/</guid>
+      <guid>http://localhost:1313/project/ner/</guid>
       <description></description>
     </item>
     

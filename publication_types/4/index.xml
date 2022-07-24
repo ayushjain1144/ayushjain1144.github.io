@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>4 | Ayush Jain</title>
-    <link>https://ayushjain1144.github.io/publication_types/4/</link>
-      <atom:link href="https://ayushjain1144.github.io/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication_types/4/</link>
+      <atom:link href="http://localhost:1313/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
     <description>4</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ayushjain1144.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>4</title>
-      <link>https://ayushjain1144.github.io/publication_types/4/</link>
+      <link>http://localhost:1313/publication_types/4/</link>
     </image>
     
     <item>
       <title>VisDrone-DET2020: The Vision Meets Drone Object Detection in Image Challenge Results</title>
-      <link>https://ayushjain1144.github.io/publication/visdron/</link>
+      <link>http://localhost:1313/publication/visdron/</link>
       <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://ayushjain1144.github.io/publication/visdron/</guid>
+      <guid>http://localhost:1313/publication/visdron/</guid>
       <description>&lt;p&gt;The Vision Meets Drone Object Detection in Image Challenge (VisDrone-DET 2020) is the third annual object detector benchmarking activity. Compared with the previous VisDrone-DET 2018 and
 VisDrone-DET 2019 challenges, many submitted object detectors exceed
 the recent state-of-the-art detectors. Based on the selected 29 robust detection methods, we discuss the experimental results comprehensively,

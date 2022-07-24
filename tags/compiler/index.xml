@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>compiler | Ayush Jain</title>
-    <link>https://ayushjain1144.github.io/tags/compiler/</link>
-      <atom:link href="https://ayushjain1144.github.io/tags/compiler/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/compiler/</link>
+      <atom:link href="http://localhost:1313/tags/compiler/index.xml" rel="self" type="application/rss+xml" />
     <description>compiler</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ayushjain1144.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>compiler</title>
-      <link>https://ayushjain1144.github.io/tags/compiler/</link>
+      <link>http://localhost:1313/tags/compiler/</link>
     </image>
     
     <item>
       <title>Compiler Construction</title>
-      <link>https://ayushjain1144.github.io/project/compiler/</link>
+      <link>http://localhost:1313/project/compiler/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://ayushjain1144.github.io/project/compiler/</guid>
+      <guid>http://localhost:1313/project/compiler/</guid>
       <description></description>
     </item>
     

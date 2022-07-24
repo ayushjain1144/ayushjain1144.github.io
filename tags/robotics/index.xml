@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robotics | Ayush Jain</title>
-    <link>https://ayushjain1144.github.io/tags/robotics/</link>
-      <atom:link href="https://ayushjain1144.github.io/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/robotics/</link>
+      <atom:link href="http://localhost:1313/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
     <description>Robotics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ayushjain1144.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Robotics</title>
-      <link>https://ayushjain1144.github.io/tags/robotics/</link>
+      <link>http://localhost:1313/tags/robotics/</link>
     </image>
     
     <item>
       <title>ABB Robot Simulation</title>
-      <link>https://ayushjain1144.github.io/project/abb/</link>
+      <link>http://localhost:1313/project/abb/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ayushjain1144.github.io/project/abb/</guid>
+      <guid>http://localhost:1313/project/abb/</guid>
       <description></description>
     </item>
     
