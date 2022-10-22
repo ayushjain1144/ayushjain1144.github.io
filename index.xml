@@ -11,6 +11,15 @@
       <title>Ayush Jain</title>
       <link>http://localhost:1313/</link>
     </image>
+
+    <item>
+      <title>Spatial reasoning as Object Graph Energy Minimization</title>
+      <link>http://localhost:1313/publication/robot_coaching/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/robot_coaching/</guid>
+      <description>&lt;p&gt;We propose a model that maps spatial rearrangement instructions to goal scene configurations via gradient descent on a set of relational energy functions over object 2D overhead locations, one per spatial predicate in the instruction. Energy based models over object locations are trained from a handful of examples of object arrangements annotated with the corresponding spatial predicates. Predicates can be binary (e.g., left of, right of, etc.) or multi-ary (e.g., circles, lines, etc.). A language parser maps language instructions to the corresponding set of EBMs, and a visual-language model grounds their arguments on relevant objects in the visual scene. Energy minimization on the joint set of energies iteratively updates the object locations till their final configuration. Then, low-level local policies re-locate objects to the inferred goal locations. Our framework shows many forms of strong generalization: (i)joint energy minimization handles zero-shot complex predicate compositions while each EBM is trained only from single predicate instructions, (ii) the model can execute instructions zero-shot, without a need for paired instruction-action training, (iii) instructions can mention novel objects and attributes at test time thanks to the pre-training of the visual language grounding model from large scale passive captioned datasets. We test the model in established instruction-guided manipulation benchmarks, as well as a benchmark of compositional instructions we introduce in this work. We show large improvements over state-of-the-art end-to-end language to action policies and planning in large language models, especially for long instructions and multi-ary spatial concepts.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Bottom Up Top Down Detection Transformers for Language Grounding in Images and Point Clouds</title>
